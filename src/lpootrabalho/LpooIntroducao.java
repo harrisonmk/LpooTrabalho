@@ -49,6 +49,8 @@ public class LpooIntroducao {
        
        System.out.println(p1.obterInfor());
        
+       // *********************************************//****************************************//
+       
        Pessoa p2 = new Pessoa();
        
        p2.setNome("Ana");
